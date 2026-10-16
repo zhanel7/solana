@@ -18,7 +18,7 @@
 ---
 
 ## 🌐 Доказательства выполнения (Devnet)
-- **Ссылка на транзакцию депозита в Solana Explorer:** [https://explorer.solana.com/tx/ouJd4ou4EVhpjy4rWAXr9CijaWCBZouJmLsrnDYdhcZ218AdH9bPpL4u7QAQ8eJLhNHACowXoyRobYmEEeCjFgN?cluster=devnet][cite: 7]
+- **Ссылка на транзакцию депозита в Solana Explorer:** [https://explorer.solana.com/tx/ouJd4ou4EVhpjy1rWAXR9CijaWCBZouJmLsmDYdhcZ218AdH9bPpL1u7QAQ8eJlNHACowXoyRobYmEEeCjFgN?cluster=devnet]
 
 ### Ответы на вопросы для самопроверки:
 * **Почему поздний вкладчик может получить share-токенов меньше, чем внёс токенов?**  
