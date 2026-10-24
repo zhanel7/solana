@@ -1,0 +1,15 @@
+{
+  "cluster": "devnet",
+  "mintA": "DZo9sTg7DZHWmYeksnd2ToswZQeodoerDhfL2QKijLM",
+  "mintB": "2gAkMcGpnRHQC19xKrZNPTHgpZsYnbwBaC4U2Xyw9HwR",
+  "poolId": "CJHjMSha5MJGXguFz8i2D8uyErvYxGoqddUJYoWS4LfM",
+  "vaultA": "A8mF25PrLcMJYPYuiYyvYQ8pth2J6GC6oZdt4zt5DVAD",
+  "vaultB": "CvF7oQot5nuMbPNteEP7Vh52ocgBGj4RNPsB6fPGTWhC",
+  "initialPrice": "1",
+  "poolTxId": "4YXHtRfgKC9LsbFswmQ61L4zwNZoTKy5sxpCAYGDi1hQSwq9pPekR1VJ2Kfc8Tzm7gEvu1Suf5RfFBu9BHrJJ5AL",
+  "currentPrice": "1",
+  "lowerPrice": "0.9",
+  "upperPrice": "1.1",
+  "positionNftMint": "78Cb5yk5poLZDay4WCeQTq3Es89Hj3VDjNP3q6h5wwTq",
+  "positionTxId": "4426HbBKc5QksBNoh8SFmmFvNgujK525wMXBBtJ8PqeyowD6SazPe4RhQtWBbi6wp9Biemyknbiho6NgzrdqtWe"
+}
