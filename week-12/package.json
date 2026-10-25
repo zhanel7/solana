@@ -1,0 +1,24 @@
+{
+  "name": "week-12",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "anchor build",
+    "typecheck": "tsc --noEmit",
+    "swap": "ts-node swap.ts",
+    "test": "cargo test --workspace"
+  },
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.31.1",
+    "@raydium-io/raydium-sdk-v2": "^0.2.74-alpha",
+    "@solana/spl-token": "^0.4.9",
+    "@solana/web3.js": "^1.99.0",
+    "bn.js": "^5.2.5"
+  },
+  "devDependencies": {
+    "@types/bn.js": "^5.2.0",
+    "@types/node": "^26.6.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "cluster": "devnet",
+  "programId": "9ThMT3LeCTCmzX5npavcdsbqDSSPGYuL93E7cctpqYgU",
+  "vault": {
+    "state": "HG9g1TR95Hqg9fWzF9PkRZXeQpoVqbtkQ4x6HgyQ5Uh4",
+    "tokenA": "Cnoe7g9DJK6nEdxRfoBZonGHi2fpes2QYhgA52GnEGqR",
+    "tokenB": "yCMpapoqB2dTvPFAorZBnsoEJqZ4fTznW3E3tawRw6x"
+  },
+  "tokenA": {
+    "mint": "DZo9sTg7DZHWmYeksnd2ToswZQeodoerDhfL2QKijLM",
+    "poolVault": "A8mF25PrLcMJYPYuiYyvYQ8pth2J6GC6oZdt4zt5DVAD",
+    "decimals": 6
+  },
+  "tokenB": {
+    "mint": "2gAkMcGpnRHQC19xKrZNPTHgpZsYnbwBaC4U2Xyw9HwR",
+    "poolVault": "CvF7oQot5nuMbPNteEP7Vh52ocgBGj4RNPsB6fPGTWhC",
+    "decimals": 6
+  },
+  "poolId": "CJHjMSha5MJGXguFz8i2D8uyErvYxGoqddUJYoWS4LfM",
+  "raydiumClmmProgramId": "DRayAUgENGQBKVaX8owNhgzkEDyoHTGVEGHVJT1E9pfH",
+  "tokenProgramId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+  "amounts": {
+    "depositA": "10000000",
+    "depositB": "0",
+    "swapInA": "1000000"
+  },
+  "slippageBps": 100
+}
