@@ -1,0 +1,25 @@
+{
+  "cluster": "devnet",
+  "programId": "DUKMeZre3vZB24zc16oWrRaDcfpqHCdgvF1fPBqEFwoh",
+  "poolId": "CJHjMSha5MJGXguFz8i2D8uyErvYxGoqddUJYoWS4LfM",
+  "raydiumClmmProgramId": "DRayAUgENGQBKVaX8owNhgzkEDyoHTGVEGHVJT1E9pfH",
+  "tokenProgramId": "TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA",
+  "tokenA": {
+    "mint": "DZo9sTg7DZHWmYeksnd2ToswZQeodoerDhfL2QKijLM",
+    "poolVault": "A8mF25PrLcMJYPYuiYyvYQ8pth2J6GC6oZdt4zt5DVAD",
+    "decimals": 6
+  },
+  "tokenB": {
+    "mint": "2gAkMcGpnRHQC19xKrZNPTHgpZsYnbwBaC4U2Xyw9HwR",
+    "poolVault": "CvF7oQot5nuMbPNteEP7Vh52ocgBGj4RNPsB6fPGTWhC",
+    "decimals": 6
+  },
+  "amounts": {
+    "depositA": "10000000",
+    "depositB": "10000000",
+    "positionMaxA": "2000000",
+    "positionMaxB": "2000000"
+  },
+  "rangeBps": 500,
+  "closeSlippageBps": 100
+}
